@@ -1,0 +1,124 @@
+DCEL Edges: 
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.112169,0.650965)
+Destination: DCEL.Point with coordinates (0.195693,0.360965)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.406442,0.188627)
+Destination: DCEL.Point with coordinates (0.357456,0.076831)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.631491,0.432437)
+Destination: DCEL.Point with coordinates (0.661545,0.398007)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.850836,0.353489)
+Destination: DCEL.Point with coordinates (0.78814,0.387084)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.628074,0.694762)
+Destination: DCEL.Point with coordinates (0.607587,0.728686)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.208642,0.674022)
+Destination: DCEL.Point with coordinates (0.138824,0.893046)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.643946,0.594663)
+Destination: DCEL.Point with coordinates (0.799974,0.484855)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.725354,0.313817)
+Destination: DCEL.Point with coordinates (0.698531,0.365102)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.469634,0.413607)
+Destination: DCEL.Point with coordinates (0.741906,0.227578)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.335897,0.182005)
+Destination: DCEL.Point with coordinates (0.327487,0.220942)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.195693,0.360965)
+Destination: DCEL.Point with coordinates (0.327487,0.220942)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.357456,0.076831)
+Destination: DCEL.Point with coordinates (0.741906,0.227578)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.78814,0.387084)
+Destination: DCEL.Point with coordinates (0.799974,0.484855)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.661545,0.398007)
+Destination: DCEL.Point with coordinates (0.698531,0.365102)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.607587,0.728686)
+Destination: DCEL.Point with coordinates (0.138824,0.893046)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.628074,0.694762)
+Destination: DCEL.Point with coordinates (0.643946,0.594663)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.850836,0.353489)
+Destination: DCEL.Point with coordinates (0.725354,0.313817)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.631491,0.432437)
+Destination: DCEL.Point with coordinates (0.469634,0.413607)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.406442,0.188627)
+Destination: DCEL.Point with coordinates (0.335897,0.182005)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.327487,0.220942)
+Destination: DCEL.Point with coordinates (0.335897,0.182005)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.741906,0.227578)
+Destination: DCEL.Point with coordinates (0.469634,0.413607)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.799974,0.484855)
+Destination: DCEL.Point with coordinates (0.643946,0.594663)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.698531,0.365102)
+Destination: DCEL.Point with coordinates (0.725354,0.313817)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.138824,0.893046)
+Destination: DCEL.Point with coordinates (0.208642,0.674022)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.112169,0.650965)
+Destination: DCEL.Point with coordinates (0.208642,0.674022)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.607587,0.728686)
+Destination: DCEL.Point with coordinates (0.628074,0.694762)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.78814,0.387084)
+Destination: DCEL.Point with coordinates (0.850836,0.353489)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.661545,0.398007)
+Destination: DCEL.Point with coordinates (0.631491,0.432437)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.357456,0.076831)
+Destination: DCEL.Point with coordinates (0.406442,0.188627)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.195693,0.360965)
+Destination: DCEL.Point with coordinates (0.112169,0.650965)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.208642,0.674022)
+Destination: DCEL.Point with coordinates (0.112169,0.650965)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.335897,0.182005)
+Destination: DCEL.Point with coordinates (0.406442,0.188627)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.469634,0.413607)
+Destination: DCEL.Point with coordinates (0.631491,0.432437)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.725354,0.313817)
+Destination: DCEL.Point with coordinates (0.850836,0.353489)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.643946,0.594663)
+Destination: DCEL.Point with coordinates (0.628074,0.694762)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.138824,0.893046)
+Destination: DCEL.Point with coordinates (0.607587,0.728686)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.799974,0.484855)
+Destination: DCEL.Point with coordinates (0.78814,0.387084)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.698531,0.365102)
+Destination: DCEL.Point with coordinates (0.661545,0.398007)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.741906,0.227578)
+Destination: DCEL.Point with coordinates (0.357456,0.076831)
+
+DCEL.Edge from Origin: DCEL.Point with coordinates (0.327487,0.220942)
+Destination: DCEL.Point with coordinates (0.195693,0.360965)
+
+
+

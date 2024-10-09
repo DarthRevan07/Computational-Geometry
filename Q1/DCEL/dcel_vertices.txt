@@ -1,0 +1,24 @@
+DCEL Vertices:
+
+DCEL.Point with coordnates (0.195693,0.360965)
+DCEL.Point with coordnates (0.661545,0.398007)
+DCEL.Point with coordnates (0.607587,0.728686)
+DCEL.Point with coordnates (0.741906,0.227578)
+DCEL.Point with coordnates (0.799974,0.484855)
+DCEL.Point with coordnates (0.208642,0.674022)
+DCEL.Point with coordnates (0.335897,0.182005)
+DCEL.Point with coordnates (0.725354,0.313817)
+DCEL.Point with coordnates (0.631491,0.432437)
+DCEL.Point with coordnates (0.628074,0.694762)
+DCEL.Point with coordnates (0.357456,0.076831)
+DCEL.Point with coordnates (0.78814,0.387084)
+DCEL.Point with coordnates (0.327487,0.220942)
+DCEL.Point with coordnates (0.698531,0.365102)
+DCEL.Point with coordnates (0.138824,0.893046)
+DCEL.Point with coordnates (0.469634,0.413607)
+DCEL.Point with coordnates (0.643946,0.594663)
+DCEL.Point with coordnates (0.112169,0.650965)
+DCEL.Point with coordnates (0.406442,0.188627)
+DCEL.Point with coordnates (0.850836,0.353489)
+
+
